@@ -1,4 +1,5 @@
 # python-_snake_game
+Author - Akid islam
 import turtle
 import random
 
